@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **[Arduino]**
 
-- 👨‍💻 All of my projects are available at **[[Github]]**([github.com/clowdyyy])
+- 👨‍💻 All of my projects are available at [[Github]]([github.com/clowdyyy])
 
 - 📫 How to reach me **[abbosibodullaev98@gmail.com]**
 
