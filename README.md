@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=clowdyyy" alt="clowdyyy" /></a> </p>
 
-- 🔭 I’m currently working on [[AcronicOS]]([github.com/pie-with-jam/SiwentOS])
+- 🔭 I’m currently working on [[AcronicOS]]([https://github.com/pie-with-jam/AcronixOS])
 
 - 🌱 I’m currently learning **[Arduino]**
 
