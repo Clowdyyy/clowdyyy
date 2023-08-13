@@ -5,6 +5,8 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=clowdyyy" alt="clowdyyy" /></a> </p>
 
+![Clowdyyy](https://github.com/Clowdyyy/clowdyyy/blob/main/image.png)
+
 - 🔭 I’m currently working on **[AcronixOS]**
 
 - 🌱 I’m currently learning **[Arduino]**
