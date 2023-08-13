@@ -5,11 +5,11 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=clowdyyy" alt="clowdyyy" /></a> </p>
 
-- 🔭 I’m currently working on [[AcronicOS]]([https://github.com/pie-with-jam/AcronixOS])
+- 🔭 I’m currently working on **[AcronixOS]**
 
 - 🌱 I’m currently learning **[Arduino]**
 
-- 👨‍💻 All of my projects are available at [[Github]]([github.com/clowdyyy])
+- 👨‍💻 All of my projects are available at **[[Github]]**([github.com/clowdyyy])
 
 - 📫 How to reach me **[abbosibodullaev98@gmail.com]**
 
